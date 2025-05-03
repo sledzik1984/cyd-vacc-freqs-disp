@@ -1,0 +1,14 @@
+//Edit this file and save as config.h
+#pragma once
+
+// Wireless network 1
+#define WIFI_SSID_1     ""
+#define WIFI_PASSWORD_1 ""
+
+// Wireless network 2
+#define WIFI_SSID_2     ""
+#define WIFI_PASSWORD_2 ""
+
+// Vatsim CID
+#define VATSIM_CID    ""
+
